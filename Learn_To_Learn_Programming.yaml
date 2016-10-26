@@ -5,5 +5,7 @@ checkpoints:
     resource-url: 'https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.nfjagisbc'
   - task: Nail the Basic Programming Concepts
     resource-url: 'https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md'
+  - task: Know Basic Programming Words
+    resource-url: 'https://www.youtube.com/watch?v=es4DYTFdqlg'
   - task: Listen and Learn from JavaScript Jabber
     resource-url: 'https://devchat.tv/js-jabber/219-jsj-learning-javascript-in-2016'
