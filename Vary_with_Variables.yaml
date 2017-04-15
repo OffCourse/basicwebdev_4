@@ -1,0 +1,14 @@
+goal: Vary with Variables
+checkpoints: 
+  - task: Data as Variables
+    resource-url: 'https://code.tutsplus.com/tutorials/introduction-to-javascript-variables--cms-24563/'
+  - task: Distinguish between Global and Local Variables
+    resource-url: "https://www.khanacademy.org/computing/computer-programming/programming/functions/p/local-and-global-variables/"
+  - task: Declare Variables
+    resource-url: 'https://www.freecodecamp.com/challenges/declare-javascript-variables/'
+  - task: Store Variables
+    resource-url: 'https://www.freecodecamp.com/challenges/storing-values-with-the-assignment-operator/'
+  - task: Initialize Variables
+    resource-url: 'https://www.freecodecamp.com/challenges/initializing-variables-with-the-assignment-operator/'
+  - task: Get Metaphorical
+    resource-url: 'https://bytebaker.com/2008/12/04/metaphors-in-computer-science/'
